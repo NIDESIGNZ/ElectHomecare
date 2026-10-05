@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+*/node_modules/
+
+# Next.js
+.next/
+*/.next/
+out/
+*/out/
+
+# IDE / System
+.gemini/
+.vscode/
+.idea/
+.DS_Store
+*.log
+Thumbs.db
